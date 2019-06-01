@@ -1,0 +1,2 @@
+login=https://login.knowhere.tk
+update=http://update.knowhere.tk
